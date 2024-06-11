@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="center">Bookworm 📖 who's studying IT💻, watching anime 📺, and loves music🎵.</h3>
