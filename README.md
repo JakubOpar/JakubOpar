@@ -1,5 +1,11 @@
 ###
 
+![Hello](gitartwork.svg)
+
+###
+
+###
+
 <h3 align="center">Bookworm 📖 who's studying IT💻, watching anime 📺, and loves music🎵.</h3>
 
 ###
