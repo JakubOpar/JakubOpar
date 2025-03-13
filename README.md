@@ -13,9 +13,16 @@
 
 ###
 
-<div align="center">
- 
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakubOpar&theme=discord_old_blurple" alt="GitHub Profile Summary">
+</p>
+
+<h3 align="center">Stats of my work🖥️.</h3>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubOpar&theme=discord_old_blurple" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JakubOpar&theme=discord_old_blurple" alt="Most Commit Language">
+</p>
 
 ###
 
