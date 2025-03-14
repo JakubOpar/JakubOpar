@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@485c6bbe-9604-438f-8643-fe44b3420e6e/4dea0e9c-3aec-4720-8207-c3b26b3414bd.png" />
+ 
 </p>
 
 ###
