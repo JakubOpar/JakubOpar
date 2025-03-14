@@ -22,9 +22,9 @@
 
 ---
 
-<p align="center">
-  Now I'm working on: 
-</p>
+<h3 align="center">
+  Now I'm working on ⚙️: 
+</h3>
 
 <p align="center">
   <img src="programmer.gif" width="150"> &nbsp;&nbsp;&nbsp;
@@ -34,9 +34,9 @@
 
 ---
 
-<p align="center">
-  My finished projects: 
-</p>
+<h3 align="center">
+  My finished projects 📄: 
+</h3>
 
 <p align="center">
   <img src="coding.gif" width="150"> &nbsp;&nbsp;&nbsp;
