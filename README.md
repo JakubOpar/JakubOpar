@@ -24,6 +24,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JakubOpar&theme=discord_old_blurple" alt="Most Commit Language">
 </p>
 
+<p align="center">
+  <img src="https://wakatime.com/share/@485c6bbe-9604-438f-8643-fe44b3420e6e/4dea0e9c-3aec-4720-8207-c3b26b3414bd.png" />
+</p>
+
 ###
 
 <h3 align="center">This is what i know.</h3>
