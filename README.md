@@ -23,13 +23,13 @@
 ---
 
 <p align="center">
-  Now i'm working on: 
+  Now I'm working on: 
 </p>
 
 <p align="center">
-  ![](Assets/coding.gif)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=myTDL" alt="JakubOpar trophies"/>
-  ![](Assets/coding.gif)
+  <img src="programmer.gif" width="150"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=myTDL" alt="JakubOpar trophies"/> &nbsp;&nbsp;&nbsp;
+  <img src="programmer.gif" width="150">
 </p>
 
 ---
@@ -39,15 +39,18 @@
 </p>
 
 <p align="center">
-  ![coding](Assets/coding.gif)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=projektIT" alt="JakubOpar trophies"/>
-  ![coding](Assets/coding.gif)
+  <img src="coding.gif" width="150"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=projektIT" alt="JakubOpar trophies"/> &nbsp;&nbsp;&nbsp;
+  <img src="coding.gif" width="150">
 </p>
+
 <p align="center">
-  ![coding](Assets/coding.gif)
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=systemzarzadzaniapoczta" alt="JakubOpar trophies"/>
-  ![coding](Assets/coding.gif)
+  <img src="coding.gif" width="150"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=systemzarzadzaniapoczta" alt="JakubOpar trophies"/> &nbsp;&nbsp;&nbsp;
+  <img src="coding.gif" width="150">
 </p>
+
+
 
 ---
 
