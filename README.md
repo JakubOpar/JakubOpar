@@ -5,34 +5,32 @@
 
 </div>
 
-###
-
-###
+---
 
 <h3 align="center">Bookworm 📖 who's studying IT💻, watching anime 📺, and loves music🎵.</h3>
 
-###
+---
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakubOpar&theme=discord_old_blurple" alt="GitHub Profile Summary">
 </p>
 
+---
+
 <h3 align="center">Stats of my work🖥️.</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubOpar&theme=discord_old_blurple&layout=compact" alt="JakubOpar trophies"/>
+</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubOpar&theme=discord_old_blurple" alt="Repos per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JakubOpar&theme=discord_old_blurple" alt="Most Commit Language">
 </p>
 
-<p align="center">
- 
-</p>
-
-###
+---
 
 <h3 align="center">This is what i know.</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -52,4 +50,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-###
+---
