@@ -22,6 +22,29 @@
 
 ---
 
+<p align="center">
+  Now i'm working on: 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=myTDL" alt="JakubOpar trophies"/>
+</p>
+
+---
+
+<p align="center">
+  My finished projects: 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=projektIT" alt="JakubOpar trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=systemzarzadzaniapoczta" alt="JakubOpar trophies"/>
+</p>
+
+---
+
 <h3 align="center">Stats of my work🖥️.</h3>
 
 <p align="center">
