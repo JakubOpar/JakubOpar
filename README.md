@@ -11,6 +11,11 @@
 
 ---
 
+<h3 align="center">About me 🙋🏻‍♂️</h3>
+<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in fermentum sem. Nulla lobortis id est sed malesuada. Nunc non libero ac tortor viverra pharetra. Phasellus eget augue quis sem eleifend pretium. Pellentesque convallis justo sed sapien vulputate, condimentum accumsan nulla fringilla. Mauris lobortis lorem sed mattis dictum. Donec fermentum ultrices tellus tincidunt venenatis. Pellentesque fermentum enim egestas vulputate ornare. Aliquam ut urna convallis, cursus velit id, ultricies nibh. Etiam at suscipit magna. Nam non neque eu orci rhoncus accumsan ut et libero. Nunc non ultrices libero, ultricies hendrerit enim. Quisque id nisi ac lectus pulvinar elementum. Proin augue tellus, consequat at nisi non, maximus scelerisque sapien. Nunc ac quam placerat, vulputate leo tempus, convallis metus. Nunc in sem vitae risus malesuada elementum.</p>
+
+---
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakubOpar&theme=discord_old_blurple" alt="GitHub Profile Summary">
 </p>
