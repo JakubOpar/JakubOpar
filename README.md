@@ -56,11 +56,11 @@
   <img src="coding.gif" width="150">
 </p>
 
-
-
 ---
 
 <h3 align="center">Stats of my work🖥️.</h3>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubOpar&theme=discord_old_blurple&layout=compact" alt="JakubOpar trophies"/>
