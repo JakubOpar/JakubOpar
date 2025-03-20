@@ -12,7 +12,9 @@
 ---
 
 <h3 align="center">About me 🙋🏻‍♂️</h3>
-<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in fermentum sem. Nulla lobortis id est sed malesuada. Nunc non libero ac tortor viverra pharetra. Phasellus eget augue quis sem eleifend pretium. Pellentesque convallis justo sed sapien vulputate, condimentum accumsan nulla fringilla. Mauris lobortis lorem sed mattis dictum. Donec fermentum ultrices tellus tincidunt venenatis. Pellentesque fermentum enim egestas vulputate ornare. Aliquam ut urna convallis, cursus velit id, ultricies nibh. Etiam at suscipit magna. Nam non neque eu orci rhoncus accumsan ut et libero. Nunc non ultrices libero, ultricies hendrerit enim. Quisque id nisi ac lectus pulvinar elementum. Proin augue tellus, consequat at nisi non, maximus scelerisque sapien. Nunc ac quam placerat, vulputate leo tempus, convallis metus. Nunc in sem vitae risus malesuada elementum.</p>
+<p align="justify">A few years ago, I started my journey into the world of programming. Since then, I have been learning about various technologies, such as JavaFX and Laravel, as well as programming languages like Python, Java, PHP, and others. My main interests are in creating desktop and web applications, but recently, I have also become more interested in the world of artificial intelligence, which has become the main focus of my "programming career." I believe that AI has huge potential and can bring innovative solutions to web apps, as well as open up many other exciting possibilities. Additionally, I am passionate about databases and data mining algorithms, which are essential for efficiently processing and analyzing information in modern systems.
+
+In my free time, I enjoy listening to music and even creating it myself, watching anime, and reading books. I absolutely love discovering new programming approaches and testing them out. On this repository, you'll be able to see my journey through this "world" and get a glimpse of what I am currently working on.</p>
 
 ---
 
