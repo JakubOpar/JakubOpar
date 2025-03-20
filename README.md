@@ -29,9 +29,7 @@
 ---
 
 <p align="center">
-  <img src="programmer.gif" width="150"> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JakubOpar/myTDL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=myTDL" alt="JakubOpar trophies"/></a> &nbsp;&nbsp;&nbsp;
-  <img src="programmer.gif" width="150">
+  <a href="https://github.com/JakubOpar/myTDL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=myTDL" alt="JakubOpar trophies"/></a>
 </p>
 
 ---
@@ -43,17 +41,13 @@
 ---
 
 <p align="center">
-  <img src="coding.gif" width="150"> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JakubOpar/projektIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=projektIT" alt="JakubOpar trophies"/></a> &nbsp;&nbsp;&nbsp;
-  <img src="coding.gif" width="150">
+  <a href="https://github.com/JakubOpar/projektIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=projektIT" alt="JakubOpar trophies"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="coding.gif" width="150"> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JakubOpar/systemzarzadzaniapoczta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=systemzarzadzaniapoczta" alt="JakubOpar trophies"/></a> &nbsp;&nbsp;&nbsp;
-  <img src="coding.gif" width="150">
+  <a href="https://github.com/JakubOpar/systemzarzadzaniapoczta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=systemzarzadzaniapoczta" alt="JakubOpar trophies"/></a>
 </p>
 
 ---
