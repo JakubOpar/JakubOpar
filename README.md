@@ -12,9 +12,11 @@
 ---
 
 <h3 align="center">About me 🙋🏻‍♂️</h3>
-<p align="justify">A few years ago, I started my journey into the world of programming. Since then, I have been learning about various technologies, such as JavaFX and Laravel, as well as programming languages like Python, Java, PHP, and others. My main interests are in creating desktop and web applications, but recently, I have also become more interested in the world of artificial intelligence, which has become the main focus of my "programming career." I believe that AI has huge potential and can bring innovative solutions to web apps, as well as open up many other exciting possibilities. Additionally, I am passionate about databases and data mining algorithms, which are essential for efficiently processing and analyzing information in modern systems.
+<p align="justify">A few years ago, I started my journey into the world of programming 🌍. Since then, I have been learning about various technologies, such as JavaFX and Laravel 🖥️, as well as programming languages like Python, Java, PHP, and others. My main interests are in creating desktop and web applications, but recently, I have also become more interested in the world of artificial intelligence 🤖, which has become the main focus of my "programming career." I believe that AI has huge potential and can bring innovative solutions to web apps, as well as open up many other exciting possibilities. Additionally, I am passionate about databases and data mining algorithms, which are essential for efficiently processing and analyzing information in modern systems.
 
-In my free time, I enjoy listening to music and even creating it myself, watching anime, and reading books. I absolutely love discovering new programming approaches and testing them out. On this repository, you'll be able to see my journey through this "world" and get a glimpse of what I am currently working on.</p>
+In my free time, I enjoy listening to music and even creating it myself 🎵, watching anime 🖥️, and reading books 📚. I absolutely love discovering new programming approaches and testing them out. 
+
+On this repository 📚, you'll be able to see my journey through this "world" 🌍 and get a glimpse of what I am currently working on 🖥️.</p>
 
 ---
 
