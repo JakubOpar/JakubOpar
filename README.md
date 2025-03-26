@@ -42,6 +42,7 @@ On this repository 📚, you'll be able to see my journey through this "world" �
   <a href="https://github.com/JakubOpar/Notes-Tasks-WebApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=Notes-Tasks-WebApp" alt="JakubOpar trophies"/></a>
 </p>
 
+---
 
 <h3 align="center">
   My finished projects 📄: 
