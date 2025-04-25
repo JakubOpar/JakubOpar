@@ -62,6 +62,12 @@ On this repository 📚, you'll be able to see my journey through this "world" �
 
 ---
 
+<p align="center">
+ <a href="https://github.com/JakubOpar/PortalSK"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=PortalSK" alt="JakubOpar trophies"/></a>
+</p>
+
+---
+
 <h3 align="center">Stats of my work🖥️.</h3>
 
 ---
