@@ -51,7 +51,7 @@ On this repository ðŸ“š, you'll be able to see my journey through this "world" ð
 ---
 
 <p align="center">
-  <a href="https://github.com/JakubOpar/projektIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=projektIT" alt="JakubOpar trophies"/></a>
+  <a href="https://github.com/JakubOpar/projektIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=Language-school-website" alt="JakubOpar trophies"/></a>
 </p>
 
 ---
