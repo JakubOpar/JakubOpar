@@ -21,7 +21,7 @@ On this repository ðŸ“š, you'll be able to see my journey through this "world" ð
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakubOpar&theme=discord_old_blurple" alt="GitHub Profile Summary">
+  <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg" alt="GitHub Profile Summary">
 </p>
 
 ---
@@ -69,8 +69,8 @@ On this repository ðŸ“š, you'll be able to see my journey through this "world" ð
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakubOpar&theme=discord_old_blurple" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JakubOpar&theme=discord_old_blurple" alt="Most Commit Language">
+  <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos per Language">
+  <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commit Language">
 </p>
 
 ---
