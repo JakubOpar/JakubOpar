@@ -63,11 +63,6 @@ On this repository 📚, you'll be able to see my journey through this "world" �
 <h3 align="center">Stats of my work🖥️.</h3>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubOpar&theme=discord_old_blurple&layout=compact" alt="JakubOpar trophies"/>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos per Language">
   <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commit Language">
