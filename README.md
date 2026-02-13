@@ -20,56 +20,6 @@ On this repository 📚, you'll be able to see my journey through this "world" �
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg" alt="GitHub Profile Summary">
-</p>
-
----
-
-<h3 align="center">
-  Now I'm working on ⚙️: 
-</h3>
-
----
-
-<p align="center">
-  <a href="#"></a>
-</p>
-
-<h3 align="center">
-  My finished projects 📄: 
-</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/JakubOpar/Language-school-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=Language-school-website" alt="JakubOpar trophies"/></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/JakubOpar/systemzarzadzaniapoczta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=systemzarzadzaniapoczta" alt="JakubOpar trophies"/></a>
-</p>
-
----
-
-<p align="center">
- <a href="https://github.com/JakubOpar/PortalSK"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakubOpar&theme=discord_old_blurple&repo=PortalSK" alt="JakubOpar trophies"/></a>
-</p>
-
----
-
-<h3 align="center">Stats of my work🖥️.</h3>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos per Language">
-  <img src="https://raw.githubusercontent.com/JakubOpar/JakubOpar/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commit Language">
-</p>
-
----
-
 <h3 align="center">This is what i know.</h3>
 
 <div align="center">
